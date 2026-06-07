@@ -165,3 +165,17 @@ transformers 4.40+
 ```
 
 Some LLMs (Llama-3.2, Gemma-2) require accepting their HuggingFace license agreements before download.
+
+---
+
+## References
+
+- **LLM4HAR**: Jin, Y., Shao, Z., Liu, J., Wang, H., Niu, B., Chen, X., & Xiong, H. (2025). *LLM4HAR: Generalizable On-device Human Activity Recognition via Large Language Models*. In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025). [[Paper]](https://dl.acm.org/doi/10.1145/3690624.3709241)
+
+- **Time-LLM**: Jin, M., Wang, S., Ma, L., Chu, Z., Zhang, J. Y., Shi, X., Chen, P. Y., Liang, Y., Li, Y. F., Pan, S., & Wen, Q. (2024). *Time-LLM: Time Series Forecasting by Reprogramming Large Language Models*. In International Conference on Learning Representations (ICLR 2024). [[Paper]](https://arxiv.org/abs/2310.01728)
+
+- **GPT-2**: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). *Language Models are Unsupervised Multitask Learners*. OpenAI Blog. [[Paper]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+
+- **Qwen2.5**: Qwen Team (2024). *Qwen2.5 Technical Report*. arXiv preprint arXiv:2412.15115. [[Paper]](https://arxiv.org/abs/2412.15115)
+
+- **Llama 3**: Grattafiori, A., et al. (2024). *The Llama 3 Herd of Models*. arXiv preprint arXiv:2407.21783. [[Paper]](https://arxiv.org/abs/2407.21783)
