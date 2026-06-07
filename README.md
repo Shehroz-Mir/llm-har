@@ -1,6 +1,6 @@
 # Cross-Domain Human Activity Recognition with Frozen LLM Backbones
 
-This repository contains the code and results for my thesis work on cross-domain Human Activity Recognition (HAR) using frozen large language model (LLM) backbones as feature extractors.
+This repository contains the code and results for my work on cross-domain Human Activity Recognition (HAR) using frozen large language model (LLM) backbones as feature extractors.
 
 The central question is: **can a frozen LLM trained on text generalize sensor embeddings across entirely different HAR datasets, without retraining?**
 
