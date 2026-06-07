@@ -1,5 +1,5 @@
 """
-Phase 3: Cross-Domain HAR Ablation Study
+Phase 2: Cross-Domain HAR Ablation Study
 
 4-level ablation across 4 LLM backbones and 4 HAR datasets (UCI, Shoaib,
 MotionSense, HHAR). Each level adds architectural or training components
@@ -296,7 +296,7 @@ def main(args):
     os.makedirs(args.ckpt_dir, exist_ok=True)
 
     # Resume logic
-    results_path = os.path.join(args.results_dir, 'phase3_ablation_results.csv')
+    results_path = os.path.join(args.results_dir, 'phase2_ablation_results.csv')
     completed_runs = set()
     all_results = []
 
